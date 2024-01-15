@@ -12,7 +12,7 @@ function App() {
 
     fetchServerData()
   }, [])
-  return <div className="App">Вот тут будет жить ваше приложение :) 123567</div>
+  return <div className="App">Вот тут будет жить ваше приложение :) 12356778</div>
 }
 
 export default App
